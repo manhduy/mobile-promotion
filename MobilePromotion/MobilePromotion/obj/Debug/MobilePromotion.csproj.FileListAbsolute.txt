@@ -1,0 +1,16 @@
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\MobilePromotion.dll
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\MobilePromotion.pdb
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\obj\Debug\MobilePromotion.csprojResolveAssemblyReference.cache
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\obj\Debug\MobilePromotion.MainPage.xaml.g.cs
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\obj\Debug\MobilePromotion.App.xaml.g.cs
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\obj\Debug\MobilePromotion.dll
+c:\users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\obj\Debug\MobilePromotion.pdb
+C:\Users\duyha\documents\visual studio 2015\Projects\MobilePromotion\MobilePromotion\MobilePromotion\obj\Debug\MobilePromotion.CallHistoryPage.xaml.g.cs
